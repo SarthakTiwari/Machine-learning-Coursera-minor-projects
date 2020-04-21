@@ -1,2 +1,2 @@
-# Machine-learning-Coursera-minor-projects
-Minor projects in Machine learning course by Andrew NG
+# Machine-learning-Coursera
+Weekly assignments in Machine learning course by Andrew NG
